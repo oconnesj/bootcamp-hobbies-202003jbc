@@ -1,2 +1,5 @@
 Name: Karen O'Connell
+Age: 26
+Gender: F
+Location: Cincinnati, Ohio 
 Hobbies: Scrap Booking, Going to Parks, Hiking 
