@@ -4,3 +4,6 @@ Gender: M
 Location: Cincinnati, Ohio 
 
 Hobbies: Video Games, Aerial Photography, Cooking 
+
+Video Games: Legend of Zelda, Pokemon, Super Smash Brothers, Halo 
+
