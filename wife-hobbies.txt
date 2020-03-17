@@ -1,7 +1,4 @@
 Name: Karen O'Connell
-Age: 26
-Gender: F
-Location: Cincinnati, Ohio 
 Hobbies: Scrap Booking, Going to Parks, Hiking 
 
 	- Scrap Booking: Creates scrap books of events in life such as wedding, dates and trips 
