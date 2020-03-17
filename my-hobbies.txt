@@ -1,3 +1,6 @@
 Name: Sam O'Connell
+Age: 27
+Gender: M
+Location: Cincinnati, Ohio 
 
 Hobbies: Video Games, Aerial Photography, Cooking 
